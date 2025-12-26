@@ -19,8 +19,8 @@ This repository is optimized for **Windows** (PowerShell) and **RTX GPUs**.
 
 1. **Clone the repository**:
    ```powershell
-   git clone https://github.com/yourusername/lfm2-zimage-trainer.git
-   cd lfm2-zimage-trainer
+   git clone https://github.com/marduk191/LFM2-350M_trainer_marduk191.git
+   cd LFM2-350M_trainer_marduk191
    ```
 
 2. **Run the Setup Script**:
