@@ -1,0 +1,20 @@
+# Python environment
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Training Outputs & Data
+lfm2-350m-zimage-turbo/
+dataset.jsonl
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
