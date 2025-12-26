@@ -3,7 +3,8 @@
 An optimized Supervised Fine-Tuning (SFT) toolkit for the **Liquid LFM2-350M** model, specifically designed to generate high-quality, descriptive prompts for **Z-Image Turbo**.
 You can find a pretrained model using 60k samples here: https://huggingface.co/marduk191/lfm2-350m-dp-marduk191
 
-![GUI Screenshot](https://via.placeholder.com/800x450.png?text=LFM2-Project-Trainer-GUI) *Add actual screenshot here*
+<img width="1095" height="845" alt="image" src="https://github.com/user-attachments/assets/85d73920-87ef-425f-9319-a1095c7b85cf" />
+
 
 ## 🚀 Features
 
